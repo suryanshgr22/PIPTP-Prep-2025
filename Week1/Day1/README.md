@@ -108,7 +108,7 @@
     - 1st : a=7 b=5, now condintion is
     checked 7%2 < 5%3 -> true since 7%2 = 1 and 5%3 = 2, then a is set to, a = 4%3 = 1. 
     - 1st : a=7 b=5, now condintion is
-    checked 7%2 < 5%3 -> true since 7%2 = 1 and 5%3 = 2, then a is set to, a = 4%3 = 1.
+    checked 7%2 < 5%3 -> true since 7%2 = 1 and 5%3 = 2, then a is set to, a = 4%3 = 1. Rahul
 ---
 
 
