@@ -45,21 +45,4 @@ variable ‘c’ will be updated with 1+24=25. Now, from line 7 updated values o
 together and return from the function. So the final (return) value will be a+b+c => 10+24+25=59.*
 ---
 
-- Problem 1
-    ### Code
-    ```
-   Integer pp, qq, rr
-   Set 
-   a=(10+9)+c
-   if((c+b)>(a-c))
-        a=b+c
-        b=b+b
-    End if
-    Print a+b+c
-    ```
-    ### Solution : 
-    *41*
-    ### Explaination :
-    *a = 10 + 9 + 8 = 27, then condition 14(c+b) > 19(a-c) will become false, hence if block will not run.
-    a+b+c -> 27+6+8=41*
----
+
