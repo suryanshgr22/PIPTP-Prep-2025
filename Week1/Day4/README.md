@@ -179,7 +179,7 @@
     print(1)*
 ---
 
-- Problem 9
+- Problem 10
     ### Code
     ```java
     public static int countPaths(int m, int n) {
